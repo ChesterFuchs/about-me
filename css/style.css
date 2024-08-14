@@ -4,7 +4,7 @@ body {
 
 header {
     position: fixed;
-    width: 100%;;
+    width: 100%;
 }
 
 nav {
@@ -17,6 +17,10 @@ nav {
       
 }
 
+main {
+    min-height: 90vh;
+}
+
 img {
     border: solid 1px black;
     border-radius: 50%;
@@ -25,12 +29,18 @@ img {
 section {
     text-align: center;
     width: 500px;
-    padding: 130px 0 50px 0;
+    padding: 10px 0 50px 0;
     margin: 0 auto;
+    
 }
 
-h1, p {
-    padding-top: 5px;
+p, li {
+    margin: 15px;
+}
+
+ol {
+    text-align: left;
+
 }
 
 footer {

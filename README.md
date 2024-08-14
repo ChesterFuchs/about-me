@@ -13,7 +13,8 @@ Contruí una pagina web donde coloco mi biografia e interactuo con el usuario pa
 
 ### Puntuación de Accesibilidad de Lighthouse
 
-* ![lighthouse](./img/Presentación1.jpg)
+* ![lighthouse de la clase 2](./img/Presentación1.jpg)
+* ![lighthouse de la clase 3](./img/Presentación2.jpg)
 
 ### Reflexiones y Comentarios
 
